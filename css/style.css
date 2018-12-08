@@ -3,7 +3,7 @@ body, html {
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
-	font-weight: 300;
+	font-weight: 600;
 	width: 100% !important;
 	height: 100% !important;
 }
@@ -611,7 +611,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
   border: none;
   min-height: 100%;
   padding: 100px 0;
-  text-align: center;
+  text-align: justify;
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
@@ -665,7 +665,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 .modalhr {
 	height: 2px;
 	width: 700px;
-	text-align: center;
+	text-align: justify;
 	position: relative;
 	background: #8eb640;
 	margin: 0;
@@ -794,7 +794,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
   width: 100%;
   height: 20px;
   font-size: 20px;
-  text-align: center;
+  text-align: justify;
   top: 50%;
   margin-top: -12px;
   color: white;
@@ -813,7 +813,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	padding: 0 0 120px 0;
 }
 #publication .section-title {
-	background: #444 url(../img/inria.jpg) center center no-repeat fixed;
+	background: #444 url(../img/nitk.jpg) center center no-repeat fixed;
 	background-size: cover;
 	margin-bottom: 50px;
 }
